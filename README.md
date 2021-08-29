@@ -7,7 +7,7 @@
 
 <li> Banco de dados e versão utilizada;<li>
 
- - MariaDB Versão do servidor: 10.4.18-MariaDB 
+  MariaDB Versão do servidor: 10.4.18-MariaDB 
 
 # Especificação de ferramentas necessárias para o funcionamento do produto;
 
