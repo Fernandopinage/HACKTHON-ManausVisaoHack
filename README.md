@@ -36,8 +36,8 @@
 <h3>Passo 2:</h3>
 
 <h4><b>Instale o projeto EURECA TECH utilizando o comando a baixo</b></h4>
-
-<span> - git clone https://github.com/Fernandopinage/ManausVisaoHack.git </span> 
+<blockquote>
+<blockquote> - git clone https://github.com/Fernandopinage/ManausVisaoHack.git <blockquote>
 
  <li>DER (Diagrama de Entidade de Relacionamento):</li>
 
