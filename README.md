@@ -39,3 +39,7 @@
 
 <span> - git clone https://github.com/Fernandopinage/ManausVisaoHack.git </span> 
 
+ <li>DER (Diagrama de Entidade de Relacionamento):</li>
+
+ ![eurecatech](https://user-images.githubusercontent.com/40150897/131252075-69902a78-9cca-4ef8-9905-0934564a2c43.jpg)
+
