@@ -1,7 +1,7 @@
 # ManausVisaoHack
 
-
-<li> Descrição da linguagem de programação e versão utilizada;
+<ul>
+<li> Descrição da linguagem de programação e versão utilizada;</li>
 
  - PHP 8.0.3
 
@@ -12,3 +12,5 @@
 # Especificação de ferramentas necessárias para o funcionamento do produto;
 
 <li> Especificação de ferramentas necessárias para o funcionamento do produto; </li>
+
+</ul>
