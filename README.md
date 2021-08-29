@@ -5,12 +5,22 @@
 
  - PHP 8.0.3
 
-<li> Banco de dados e versão utilizada;<li>
+<li> Banco de dados e versão utilizada;</li>
 
-  MariaDB Versão do servidor: 10.4.18-MariaDB 
+ - MariaDB Versão do servidor: 10.4.18-MariaDB 
 
 # Especificação de ferramentas necessárias para o funcionamento do produto;
 
 <li> Especificação de ferramentas necessárias para o funcionamento do produto; </li>
 
-</ul>
+ - Versão PHP ^5.7
+ - Composer
+
+
+<li>Requisitos mínimos para instalação:</li>
+
+ - Sistema Operacional Linux ou Windows
+ - 1GB de memória RAM
+ - 500GB de armazenamento
+
+<li> Manual de instalação: incluindo instalação e configuração de todas as ferramentas e bibliotecas necessárias </li>
