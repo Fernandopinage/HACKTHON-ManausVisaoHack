@@ -283,7 +283,7 @@ if (isset($_POST['pesquisar'])) {
                         <button id='botaoEnviar' type="button" id="volta01" onclick="voltando01()" class="btn btn-success btn">VOLTAR</button>
                     </div>
                     <div class="col text-end">
-                        <button id='botaoEnviar' type="button" id="avanca01" onclick="avançando01()" class="btn btn-success btn">PROXIMO</button>
+                        <button id='botaoEnviar' type="button" id="avanca01" onclick="avançando01()" class="btn btn-success btn">PRÓXIMO</button>
                     </div>
                 </div>
             </div>
