@@ -3,7 +3,7 @@
 
 <li> Descrição da linguagem de programação e versão utilizada;
 
-<ol>PHP 8.0.3
+<ul>PHP 8.0.3</ul
 
 # Banco de dados e versão utilizada;
 
