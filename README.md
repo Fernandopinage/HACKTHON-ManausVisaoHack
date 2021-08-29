@@ -27,6 +27,8 @@
 
 <h3>Passo 1:</h3>
 
-- Baixar o composer 
+<h4><b>Instale o composer Instalação - Linux / Unix / macOS# </b></h4>
+<h5>Baixando o executável do Composer</h5>
+
 
 <span> - php composer-setup.php --install-dir=bin --filename=composer </span> 
