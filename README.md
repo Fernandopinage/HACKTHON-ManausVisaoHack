@@ -47,3 +47,6 @@
 
 <h4><b>Link do protótipo navegável</b></h4>
 <span>https://www.figma.com/proto/mX5OZeT17x43pFah6HeyGA/Modern-Login-UI--2.0-(Community)?node-id=155%3A130&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1</span> 
+
+
+ ![eurecatech](blob:https://web.whatsapp.com/f86c271b-33ef-4fa3-8ae7-ab64c1a22770)
