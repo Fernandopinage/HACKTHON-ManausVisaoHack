@@ -9,7 +9,6 @@
 
  - MariaDB Versão do servidor: 10.4.18-MariaDB 
 
-# Especificação de ferramentas necessárias para o funcionamento do produto;
 
 <li> Especificação de ferramentas necessárias para o funcionamento do produto; </li>
 
