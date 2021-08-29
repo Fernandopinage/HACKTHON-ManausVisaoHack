@@ -27,8 +27,14 @@
 
 <h3>Passo 1:</h3>
 
-<h4><b>Instale o composer Instalação - Linux / Unix / macOS# </b></h4>
-<h5>Baixando o executável do Composer</h5>
+<h4><b>Instalar o Composer - Linux / Unix / macOS# </b></h4>
+<h5>Digite o comando a baixo  "Utilizando Terminal prompt"</h5>
 
 
 <span> - php composer-setup.php --install-dir=bin --filename=composer </span> 
+
+<h3>Passo 2:</h3>
+
+<h4><b>Instale o projeto EURECA TECH utilizando o comando a baixo</b></h4>
+
+<span> - git clone https://github.com/Fernandopinage/ManausVisaoHack.git </span> 
