@@ -4,6 +4,7 @@
 <li> Descrição da linguagem de programação e versão utilizada;</li>
 
  - PHP 8.0.3
+ - PHP AI ^0.4.1
 
 <li> Banco de dados e versão utilizada;</li>
 
